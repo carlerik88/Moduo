@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+/* Google Fonts imports */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Bebas+Neue&family=Roboto:wght@300;400;500;700&family=Poppins:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap');
+
+/* Design Tokens - Scandinavian Theme */
+@theme {
+  /* Scandinavian Colors */
+  --color-scandi-oak: #D4A574;
+  --color-scandi-oak-light: #E5C9A8;
+  --color-scandi-forest: #2C5530;
+  --color-scandi-forest-light: #3D7344;
+  --color-scandi-offwhite: #F8F6F3;
+  --color-scandi-cream: #FDF9F3;
+  --color-scandi-charcoal: #2D2D2D;
+
+  /* Craftsman Colors */
+  --color-craft-walnut: #5D4037;
+  --color-craft-walnut-light: #795548;
+  --color-craft-blue: #4A6FA5;
+  --color-craft-blue-light: #6789B5;
+  --color-craft-linen: #E8E4D9;
+  --color-craft-cream: #F5F3ED;
+  --color-craft-rust: #B85C38;
+
+  /* Modern Colors */
+  --color-modern-slate: #5B7C99;
+  --color-modern-slate-light: #7A98B3;
+  --color-modern-beech: #E8C79A;
+  --color-modern-beech-light: #F0D8B5;
+  --color-modern-grey: #F5F5F7;
+  --color-modern-dark: #1D1D1F;
+  --color-modern-accent: #0066CC;
+
+  /* Font families */
+  --font-playfair: 'Playfair Display', serif;
+  --font-inter: 'Inter', sans-serif;
+  --font-bebas: 'Bebas Neue', sans-serif;
+  --font-roboto: 'Roboto', sans-serif;
+  --font-poppins: 'Poppins', sans-serif;
+  --font-dmsans: 'DM Sans', sans-serif;
+
+  /* Animation durations */
+  --duration-fast: 150ms;
+  --duration-normal: 300ms;
+  --duration-slow: 500ms;
+}
+
+/* Base styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scandinavian theme base */
+.theme-scandinavian {
+  font-family: var(--font-inter);
+  background-color: var(--color-scandi-offwhite);
+  color: var(--color-scandi-charcoal);
+}
+
+.theme-scandinavian h1,
+.theme-scandinavian h2,
+.theme-scandinavian h3,
+.theme-scandinavian h4 {
+  font-family: var(--font-playfair);
+}
+
+/* Craftsman theme base */
+.theme-craftsman {
+  font-family: var(--font-roboto);
+  background-color: var(--color-craft-linen);
+  color: var(--color-craft-walnut);
+}
+
+.theme-craftsman h1,
+.theme-craftsman h2,
+.theme-craftsman h3,
+.theme-craftsman h4 {
+  font-family: var(--font-bebas);
+  letter-spacing: 0.05em;
+}
+
+/* Modern theme base */
+.theme-modern {
+  font-family: var(--font-dmsans);
+  background-color: var(--color-modern-grey);
+  color: var(--color-modern-dark);
+}
+
+.theme-modern h1,
+.theme-modern h2,
+.theme-modern h3,
+.theme-modern h4 {
+  font-family: var(--font-poppins);
+}
+
+/* Form reset for all themes */
+input, select, textarea {
+  font-family: inherit;
+}
+
+/* Focus styles */
+*:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}

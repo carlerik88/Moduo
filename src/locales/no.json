@@ -1,0 +1,254 @@
+{
+  "common": {
+    "brandName": "Moduo",
+    "tagline": "Modulære hyllesystemer i massivt tre",
+    "addToCart": "Legg i handlekurv",
+    "buyNow": "Kjøp nå",
+    "learnMore": "Les mer",
+    "viewAll": "Se alle",
+    "back": "Tilbake",
+    "next": "Neste",
+    "previous": "Forrige",
+    "save": "Lagre",
+    "cancel": "Avbryt",
+    "close": "Lukk",
+    "loading": "Laster...",
+    "error": "Noe gikk galt",
+    "success": "Fullført",
+    "required": "Påkrevd",
+    "optional": "Valgfritt",
+    "yes": "Ja",
+    "no": "Nei",
+    "or": "eller",
+    "and": "og"
+  },
+  "nav": {
+    "home": "Hjem",
+    "builder": "Bygg din hylle",
+    "products": "Produkter",
+    "about": "Om oss",
+    "contact": "Kontakt",
+    "cart": "Handlekurv",
+    "faq": "Spørsmål og svar"
+  },
+  "hero": {
+    "title": "Design ditt perfekte hyllesystem",
+    "subtitle": "Håndlaget i Norge med bærekraftig tre. Modulært, tilpassbart og bygget for å vare.",
+    "cta": "Start å bygge",
+    "secondary": "Utforsk kolleksjonene"
+  },
+  "builder": {
+    "title": "Bygg din hylle",
+    "subtitle": "Velg komponenter og se hyllen din ta form i sanntid",
+    "components": "Komponenter",
+    "preview": "Forhåndsvisning",
+    "summary": "Sammendrag",
+    "dimensions": "Dimensjoner",
+    "totalWeight": "Total vekt",
+    "totalPrice": "Total pris",
+    "saveConfig": "Lagre konfigurasjon",
+    "loadConfig": "Last konfigurasjon",
+    "clearAll": "Tøm alt",
+    "addToCart": "Legg til i handlekurv",
+    "height": "Høyde",
+    "width": "Bredde",
+    "depth": "Dybde",
+    "quantity": "Antall",
+    "selectType": "Velg komponenttype",
+    "noComponents": "Ingen komponenter valgt ennå",
+    "componentTypes": {
+      "upright": "Stolper",
+      "shelf": "Hyller",
+      "bracket": "Braketter",
+      "base": "Bunnsokler",
+      "backpanel": "Bakpaneler",
+      "drawer": "Skuffer",
+      "door": "Dører"
+    },
+    "woodTypes": {
+      "oak": "Eik",
+      "walnut": "Valnøtt",
+      "beech": "Bøk",
+      "pine": "Furu",
+      "birch": "Bjørk"
+    },
+    "finishes": {
+      "natural": "Naturlig",
+      "oiled": "Oljet",
+      "lacquered": "Lakkert",
+      "stained": "Beiset"
+    }
+  },
+  "products": {
+    "title": "Våre produkter",
+    "subtitle": "Utforsk vårt utvalg av håndlagde trekomponenter",
+    "filter": "Filtrer",
+    "sort": "Sorter",
+    "sortBy": {
+      "price-asc": "Pris: Lav til høy",
+      "price-desc": "Pris: Høy til lav",
+      "name": "Navn A-Å",
+      "newest": "Nyeste først"
+    },
+    "categories": "Kategorier",
+    "allProducts": "Alle produkter",
+    "noResults": "Ingen produkter funnet",
+    "inStock": "På lager",
+    "outOfStock": "Ikke på lager",
+    "addedToCart": "Lagt til i handlekurven"
+  },
+  "cart": {
+    "title": "Handlekurv",
+    "empty": "Handlekurven din er tom",
+    "emptyMessage": "Begynn å bygge ditt perfekte hyllesystem",
+    "startShopping": "Start å handle",
+    "items": "varer",
+    "item": "vare",
+    "subtotal": "Delsum",
+    "shipping": "Frakt",
+    "shippingCalculated": "Beregnes ved utsjekk",
+    "tax": "MVA (25%)",
+    "total": "Totalt",
+    "checkout": "Gå til kassen",
+    "continueShopping": "Fortsett å handle",
+    "remove": "Fjern",
+    "update": "Oppdater",
+    "configuration": "Konfigurasjon",
+    "estimateShipping": "Beregn frakt",
+    "postalCode": "Postnummer"
+  },
+  "checkout": {
+    "title": "Kasse",
+    "steps": {
+      "shipping": "Levering",
+      "payment": "Betaling",
+      "review": "Bekreftelse"
+    },
+    "shipping": {
+      "title": "Leveringsinformasjon",
+      "firstName": "Fornavn",
+      "lastName": "Etternavn",
+      "email": "E-post",
+      "phone": "Telefon",
+      "street": "Gateadresse",
+      "postalCode": "Postnummer",
+      "city": "By",
+      "country": "Land",
+      "sameAsBilling": "Samme som faktureringsadresse"
+    },
+    "payment": {
+      "title": "Betalingsmåte",
+      "selectMethod": "Velg betalingsmåte",
+      "card": "Bankkort",
+      "vipps": "Vipps",
+      "invoice": "Faktura",
+      "cardNumber": "Kortnummer",
+      "expiry": "Utløpsdato",
+      "cvc": "CVC",
+      "nameOnCard": "Navn på kort"
+    },
+    "review": {
+      "title": "Gjennomgå bestillingen",
+      "orderSummary": "Ordresammendrag",
+      "shippingAddress": "Leveringsadresse",
+      "paymentMethod": "Betalingsmåte",
+      "placeOrder": "Fullfør bestilling",
+      "terms": "Jeg godtar vilkårene og betingelsene",
+      "newsletter": "Ja, send meg nyheter og tilbud"
+    },
+    "confirmation": {
+      "title": "Takk for din bestilling!",
+      "orderNumber": "Ordrenummer",
+      "emailSent": "En bekreftelse er sendt til din e-post",
+      "estimatedDelivery": "Forventet levering",
+      "trackOrder": "Spor bestillingen"
+    }
+  },
+  "testimonials": {
+    "title": "Hva kundene sier",
+    "subtitle": "Les ekte erfaringer fra fornøyde kunder"
+  },
+  "about": {
+    "title": "Om Moduo",
+    "craftsman": {
+      "title": "Håndverket",
+      "description": "Hver Moduo-hylle er håndlaget i vårt verksted i Norge. Vi bruker bare det beste, bærekraftige treet fra lokale skoger."
+    },
+    "quality": {
+      "title": "Kvalitet",
+      "description": "Vi står for kvalitet i alle ledd. Fra utvalg av trevirke til sluttfinish - alt er nøye utført."
+    },
+    "sustainability": {
+      "title": "Bærekraft",
+      "description": "Alt treverk kommer fra sertifiserte, bærekraftige kilder. Vi planter to trær for hvert tre vi bruker."
+    }
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål",
+    "subtitle": "Finn svar på vanlige spørsmål",
+    "categories": {
+      "ordering": "Bestilling",
+      "shipping": "Levering",
+      "assembly": "Montering",
+      "care": "Vedlikehold",
+      "returns": "Retur"
+    }
+  },
+  "contact": {
+    "title": "Kontakt oss",
+    "subtitle": "Vi hjelper deg gjerne",
+    "form": {
+      "name": "Navn",
+      "email": "E-post",
+      "phone": "Telefon",
+      "subject": "Emne",
+      "message": "Melding",
+      "send": "Send melding"
+    },
+    "info": {
+      "address": "Adresse",
+      "email": "E-post",
+      "phone": "Telefon",
+      "hours": "Åpningstider"
+    }
+  },
+  "footer": {
+    "about": "Om Moduo",
+    "aboutText": "Modulære hyllesystemer i massivt tre, håndlaget i Norge med kjærlighet og presisjon.",
+    "links": "Lenker",
+    "support": "Kundeservice",
+    "legal": "Juridisk",
+    "privacy": "Personvern",
+    "terms": "Vilkår",
+    "cookies": "Informasjonskapsler",
+    "newsletter": {
+      "title": "Nyhetsbrev",
+      "description": "Få nyheter og eksklusive tilbud",
+      "placeholder": "Din e-post",
+      "subscribe": "Abonner"
+    },
+    "copyright": "© 2024 Moduo. Alle rettigheter forbeholdt."
+  },
+  "shipping": {
+    "options": {
+      "standard": "Standard levering",
+      "express": "Ekspress levering",
+      "pickup": "Hent i butikk"
+    },
+    "estimatedDays": "{{min}}-{{max}} virkedager",
+    "freeOver": "Gratis frakt over {{amount}} kr"
+  },
+  "errors": {
+    "required": "Dette feltet er påkrevd",
+    "invalidEmail": "Ugyldig e-postadresse",
+    "invalidPhone": "Ugyldig telefonnummer",
+    "invalidPostalCode": "Ugyldig postnummer",
+    "minLength": "Må være minst {{min}} tegn",
+    "maxLength": "Kan ikke være mer enn {{max}} tegn"
+  },
+  "units": {
+    "cm": "cm",
+    "kg": "kg",
+    "nok": "kr"
+  }
+}

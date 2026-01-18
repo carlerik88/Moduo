@@ -1,0 +1,254 @@
+{
+  "common": {
+    "brandName": "Moduo",
+    "tagline": "Modular shelf systems in solid wood",
+    "addToCart": "Add to cart",
+    "buyNow": "Buy now",
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Complete",
+    "required": "Required",
+    "optional": "Optional",
+    "yes": "Yes",
+    "no": "No",
+    "or": "or",
+    "and": "and"
+  },
+  "nav": {
+    "home": "Home",
+    "builder": "Build your shelf",
+    "products": "Products",
+    "about": "About us",
+    "contact": "Contact",
+    "cart": "Cart",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Design your perfect shelf system",
+    "subtitle": "Handcrafted in Norway with sustainable wood. Modular, customizable, and built to last.",
+    "cta": "Start building",
+    "secondary": "Explore collections"
+  },
+  "builder": {
+    "title": "Build your shelf",
+    "subtitle": "Select components and watch your shelf take shape in real-time",
+    "components": "Components",
+    "preview": "Preview",
+    "summary": "Summary",
+    "dimensions": "Dimensions",
+    "totalWeight": "Total weight",
+    "totalPrice": "Total price",
+    "saveConfig": "Save configuration",
+    "loadConfig": "Load configuration",
+    "clearAll": "Clear all",
+    "addToCart": "Add to cart",
+    "height": "Height",
+    "width": "Width",
+    "depth": "Depth",
+    "quantity": "Quantity",
+    "selectType": "Select component type",
+    "noComponents": "No components selected yet",
+    "componentTypes": {
+      "upright": "Uprights",
+      "shelf": "Shelves",
+      "bracket": "Brackets",
+      "base": "Bases",
+      "backpanel": "Back panels",
+      "drawer": "Drawers",
+      "door": "Doors"
+    },
+    "woodTypes": {
+      "oak": "Oak",
+      "walnut": "Walnut",
+      "beech": "Beech",
+      "pine": "Pine",
+      "birch": "Birch"
+    },
+    "finishes": {
+      "natural": "Natural",
+      "oiled": "Oiled",
+      "lacquered": "Lacquered",
+      "stained": "Stained"
+    }
+  },
+  "products": {
+    "title": "Our products",
+    "subtitle": "Explore our range of handcrafted wood components",
+    "filter": "Filter",
+    "sort": "Sort",
+    "sortBy": {
+      "price-asc": "Price: Low to high",
+      "price-desc": "Price: High to low",
+      "name": "Name A-Z",
+      "newest": "Newest first"
+    },
+    "categories": "Categories",
+    "allProducts": "All products",
+    "noResults": "No products found",
+    "inStock": "In stock",
+    "outOfStock": "Out of stock",
+    "addedToCart": "Added to cart"
+  },
+  "cart": {
+    "title": "Shopping cart",
+    "empty": "Your cart is empty",
+    "emptyMessage": "Start building your perfect shelf system",
+    "startShopping": "Start shopping",
+    "items": "items",
+    "item": "item",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shippingCalculated": "Calculated at checkout",
+    "tax": "Tax (25% VAT)",
+    "total": "Total",
+    "checkout": "Proceed to checkout",
+    "continueShopping": "Continue shopping",
+    "remove": "Remove",
+    "update": "Update",
+    "configuration": "Configuration",
+    "estimateShipping": "Estimate shipping",
+    "postalCode": "Postal code"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "steps": {
+      "shipping": "Shipping",
+      "payment": "Payment",
+      "review": "Review"
+    },
+    "shipping": {
+      "title": "Shipping information",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone",
+      "street": "Street address",
+      "postalCode": "Postal code",
+      "city": "City",
+      "country": "Country",
+      "sameAsBilling": "Same as billing address"
+    },
+    "payment": {
+      "title": "Payment method",
+      "selectMethod": "Select payment method",
+      "card": "Credit/Debit card",
+      "vipps": "Vipps",
+      "invoice": "Invoice",
+      "cardNumber": "Card number",
+      "expiry": "Expiry date",
+      "cvc": "CVC",
+      "nameOnCard": "Name on card"
+    },
+    "review": {
+      "title": "Review your order",
+      "orderSummary": "Order summary",
+      "shippingAddress": "Shipping address",
+      "paymentMethod": "Payment method",
+      "placeOrder": "Place order",
+      "terms": "I accept the terms and conditions",
+      "newsletter": "Yes, send me news and offers"
+    },
+    "confirmation": {
+      "title": "Thank you for your order!",
+      "orderNumber": "Order number",
+      "emailSent": "A confirmation has been sent to your email",
+      "estimatedDelivery": "Estimated delivery",
+      "trackOrder": "Track order"
+    }
+  },
+  "testimonials": {
+    "title": "What customers say",
+    "subtitle": "Read real experiences from satisfied customers"
+  },
+  "about": {
+    "title": "About Moduo",
+    "craftsman": {
+      "title": "The Craft",
+      "description": "Every Moduo shelf is handcrafted in our Norwegian workshop. We use only the finest sustainable wood from local forests."
+    },
+    "quality": {
+      "title": "Quality",
+      "description": "We stand for quality in every step. From wood selection to final finish - everything is carefully executed."
+    },
+    "sustainability": {
+      "title": "Sustainability",
+      "description": "All wood comes from certified, sustainable sources. We plant two trees for every tree we use."
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Find answers to common questions",
+    "categories": {
+      "ordering": "Ordering",
+      "shipping": "Shipping",
+      "assembly": "Assembly",
+      "care": "Care",
+      "returns": "Returns"
+    }
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "We're happy to help",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send message"
+    },
+    "info": {
+      "address": "Address",
+      "email": "Email",
+      "phone": "Phone",
+      "hours": "Opening hours"
+    }
+  },
+  "footer": {
+    "about": "About Moduo",
+    "aboutText": "Modular shelf systems in solid wood, handcrafted in Norway with love and precision.",
+    "links": "Links",
+    "support": "Customer service",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Get news and exclusive offers",
+      "placeholder": "Your email",
+      "subscribe": "Subscribe"
+    },
+    "copyright": "© 2024 Moduo. All rights reserved."
+  },
+  "shipping": {
+    "options": {
+      "standard": "Standard delivery",
+      "express": "Express delivery",
+      "pickup": "Store pickup"
+    },
+    "estimatedDays": "{{min}}-{{max}} business days",
+    "freeOver": "Free shipping over {{amount}} NOK"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "invalidPhone": "Invalid phone number",
+    "invalidPostalCode": "Invalid postal code",
+    "minLength": "Must be at least {{min}} characters",
+    "maxLength": "Cannot be more than {{max}} characters"
+  },
+  "units": {
+    "cm": "cm",
+    "kg": "kg",
+    "nok": "NOK"
+  }
+}
